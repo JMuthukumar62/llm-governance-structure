@@ -1,4 +1,4 @@
-# LLM Governance Architecture
+# ChatGPT-Governance-Architecture-Whitepaper-v1.0.pdf
 
 ## ChatGPT: Accelerator or Sophisticated Search Engine?
 
