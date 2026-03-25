@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "ChatGPT: Accelerator or Sophisticated Search Engine? Governance Determines the Outcome"
+message: "If you use this whitepaper, please cite it as below."
+type: report
+authors:
+  - family-names: "Muthu Kumar"
+    given-names: "J."
+website: "https://www.yadhumagi.com"
+url: "https://www.yadhumagi.com"
+abstract: >-
+  A governance architecture whitepaper arguing that the distinction between
+  a sophisticated search engine and a structured analytical accelerator is not
+  technological but architectural, depending on where authority resides.
+keywords:
+  - AI governance
+  - large language models
+  - human in the loop
+  - AI accountability
+  - risk architecture
+license: "All rights reserved unless otherwise stated"
+version: "1.0"
+date-released: "2026-03"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Muthu Kumar"
+      given-names: "J."
+  title: "ChatGPT: Accelerator or Sophisticated Search Engine? Governance Determines the Outcome"
+  year: 2026
+  version: "1.0"
+  publisher: "Yadhumagi"
+  url: "https://www.yadhumagi.com"
