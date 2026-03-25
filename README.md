@@ -1,4 +1,5 @@
 # ChatGPT-Governance-Architecture-Whitepaper-v1.0.pdf
+## Version: v1.0 (March 2026)
 
 ## ChatGPT: Accelerator or Sophisticated Search Engine?
 
@@ -12,6 +13,21 @@ This repository contains the conceptual framework and whitepaper:
   Leads to **High-Leverage Cognition**
 
 ---
+## Why This Paper
+
+Most discussions about AI focus on model capability, benchmarks, or alignment techniques.
+
+This paper shifts the focus to **interaction architecture**:
+
+- Where responsibility sits
+- How authority is distributed
+- Why governance—not model intelligence—determines outcome quality
+
+It introduces a practitioner-level framework:
+**Human Governance Authority (HGA) + Structured Analytical Acceleration (SAA)**
+
+This is not a model improvement paper.
+It is a **usage architecture paper**.
 
 ## Overview
 
@@ -73,6 +89,9 @@ As LLMs integrate into:
 The key variable is not model capability, but governance structure.
 
 Hallucination and drift are reframed here as governance risks rather than purely technical defects.
+
+> AI does not replace thinking.
+> It amplifies the structure of thinking you bring to it.
 
 ---
 
