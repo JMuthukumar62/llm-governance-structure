@@ -15,6 +15,13 @@ This repository contains the conceptual framework and whitepaper:
 
 ## Overview
 
+ChatGPT is not inherently intelligent or unreliable.
+
+It becomes a **Structured Analytical Accelerator** under human governance.
+Without it, it collapses into a **sophisticated search engine**—fluent, fast, and often misleading.
+
+This paper explains why the difference is not in the model, but in the architecture of use.
+
 Large language models (LLMs) are built on transformer-based architectures that generate text through probabilistic sequence prediction.
 
 They accelerate pattern synthesis.
